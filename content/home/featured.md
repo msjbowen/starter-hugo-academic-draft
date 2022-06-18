@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
+title: Draft Research
 subtitle: ''
 
 content:
@@ -28,7 +28,7 @@ content:
 
 design:
   # Choose a view for the listings:
-  #   1 = List
+     1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
