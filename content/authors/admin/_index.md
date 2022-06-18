@@ -44,16 +44,17 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+   # link: '/#contact'
+   link: `mailto: miriamsjbowen@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/miriamsjbowen
+ # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+ #   icon_pack: fas
+ #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/msjbowen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -71,9 +72,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I work on self-referential probability and rationality. Self-referential probability senarios are situations where the agent's credences can act as evidence for the truth or likelihood of a proposition. My focus has been on the Probabilistic Liar, which has structural similarity to the Liar paradox.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+In my PhD I used the Probabilistic Liar as a useful example and focus to explore the suspended judgment in a credal framwork, norms of rationality and their underlying logics, the nature of degrees of belief and problems for indeterminacy and the logic of higher order indeterminacy. I am now working on extending my account of indeterminacy to decision theory.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I also have an interest in questions about the connection between belief formation and imagination. I am interested in these questions in the context of self-deception.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
