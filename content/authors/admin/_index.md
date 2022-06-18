@@ -79,4 +79,3 @@ In my PhD I used the Probabilistic Liar as a useful example and focus to explore
 I also have an interest in questions about the connection between belief formation and imagination. I am interested in these questions in the context of self-deception.
 
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
