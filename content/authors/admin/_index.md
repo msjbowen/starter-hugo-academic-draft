@@ -44,8 +44,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-   # link: '/#contact'
-   link: `mailto: miriamsjbowen@gmail.com'
+    link: '/#contact'
+   
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/miriamsjbowen
@@ -67,7 +67,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'miriamsjbowen@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
